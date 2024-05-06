@@ -1,6 +1,6 @@
 # Incentive-Aware Federated Learning with Training-Time Model Rewards
 
-This repository is the official implementation of the following paper accepted by the Thirty-ninth International Conference on Machine Learning (ICML) 2022:
+This repository is the official implementation of the following paper accepted by the 12th International Conference on Learning Representations (ICLR) 2024:
 > [***Incentive-Aware Federated Learning with Training-Time Model Rewards***](https://openreview.net/forum?id=FlY7WQ2hWS&noteId=FlY7WQ2hWS).
 >
 > Zhaoxuan Wu, Mohammad Mohammadi Amiri, Ramesh Raskar, Bryan Kian Hsiang Low
